@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "Fisioterapia De Filippis"
 theme = "apsho"
 
 # Navigation Bar
@@ -10,11 +10,11 @@ theme = "apsho"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "Chi sono"
     url = "#feature"
     weight = 2
 [[menu.main]]
-    name = "Services"
+    name = "Servizi"
     url = "#faq"
     weight = 3
 [[menu.main]]
@@ -28,7 +28,7 @@ theme = "apsho"
     url = "#"
     weight = 1
 [[menu.sitemap]]
-    name = "Latest Article"
+    name = "Ultimi Articoli"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
@@ -42,9 +42,9 @@ theme = "apsho"
 
 # Footer Address
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "apsho@example.com"
-phone = "+(448) 833 5272 332"
+address = "Viale Francia, 40 - 71122 Foggia (FG)"
+email = "federica.defilippis@hotmail.com"
+phone = "+(39) 320 31 22 094"
 
 # Footer Social
 [params.social]
